@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calculadora", "calculadora\calculadora.csproj", "{48A7DAD6-D918-406C-A536-435C271B2AC7}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "IntsladorCalculadora", "IntsladorCalculadora\IntsladorCalculadora.vdproj", "{B2BC45E2-6B13-4F23-9392-072C463CF832}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48A7DAD6-D918-406C-A536-435C271B2AC7}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{48A7DAD6-D918-406C-A536-435C271B2AC7}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{48A7DAD6-D918-406C-A536-435C271B2AC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48A7DAD6-D918-406C-A536-435C271B2AC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2BC45E2-6B13-4F23-9392-072C463CF832}.Debug|Any CPU.ActiveCfg = Debug
+		{B2BC45E2-6B13-4F23-9392-072C463CF832}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3347B91-37D7-4814-A518-C38B91121F81}
+	EndGlobalSection
+EndGlobal

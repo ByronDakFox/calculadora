@@ -1,0 +1,10 @@
+E:\MAYO -AGOSTO 2020\COMPILADORES\calculadora\calculadora\bin\Release\calculadora.exe.config
+E:\MAYO -AGOSTO 2020\COMPILADORES\calculadora\calculadora\bin\Release\calculadora.exe
+E:\MAYO -AGOSTO 2020\COMPILADORES\calculadora\calculadora\bin\Release\calculadora.pdb
+E:\MAYO -AGOSTO 2020\COMPILADORES\calculadora\calculadora\obj\Release\calculadora.csprojAssemblyReference.cache
+E:\MAYO -AGOSTO 2020\COMPILADORES\calculadora\calculadora\obj\Release\calculadora.Form1.resources
+E:\MAYO -AGOSTO 2020\COMPILADORES\calculadora\calculadora\obj\Release\calculadora.Properties.Resources.resources
+E:\MAYO -AGOSTO 2020\COMPILADORES\calculadora\calculadora\obj\Release\calculadora.csproj.GenerateResource.cache
+E:\MAYO -AGOSTO 2020\COMPILADORES\calculadora\calculadora\obj\Release\calculadora.csproj.CoreCompileInputs.cache
+E:\MAYO -AGOSTO 2020\COMPILADORES\calculadora\calculadora\obj\Release\calculadora.exe
+E:\MAYO -AGOSTO 2020\COMPILADORES\calculadora\calculadora\obj\Release\calculadora.pdb
